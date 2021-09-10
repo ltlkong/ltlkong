@@ -18,7 +18,7 @@ A highly motivated and passionate web developer.
 
 ### Portfolio
 
-[![](https://wizardly-fermat-11bd1b.netlify.app/)]
+http://3.144.84.254:8080/index.xml
 
 ### Github
 
