@@ -4,7 +4,7 @@
 
 A highly motivated and passionate web developer. 
 
-### Social Account：
+### Social Accounts：
 
 - <a href="https://www.linkedin.com/in/tielin-li-a3335820b/">LinkedIn</a>
 
@@ -16,9 +16,7 @@ A highly motivated and passionate web developer.
 <code><img height="30" src="https://github.com/ltlkong/ltlkong/blob/main/csharp.png?raw=true"></code>
 <code><img height="30" src="https://github.com/ltlkong/ltlkong/blob/main/sql.jpeg?raw=true"></code>
 
-## Portfolio
-
-[![](https://kongi.netlify.app/)]
+### Portfolio
 
 ### Github
 
