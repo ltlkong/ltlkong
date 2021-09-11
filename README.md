@@ -14,6 +14,7 @@ A highly motivated and passionate web developer.
 <code><img height="30" src="https://github.com/ltlkong/ltlkong/blob/main/react.png?raw=true"></code>
 <code><img height="30" src="https://github.com/ltlkong/ltlkong/blob/main/docker.jpg?raw=true"></code>
 <code><img height="30" src="https://github.com/ltlkong/ltlkong/blob/main/csharp.png?raw=true"></code>
+<code><img height="30" src="https://github.com/ltlkong/ltlkong/blob/main/sql.jpeg?raw=true"></code>
 
 ### Github
 [![](https://activity-graph.herokuapp.com/graph?username=ltlkong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
