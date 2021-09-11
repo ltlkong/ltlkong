@@ -17,13 +17,7 @@ A highly motivated and passionate web developer.
 <code><img height="30" src="https://github.com/ltlkong/ltlkong/blob/main/sql.jpeg?raw=true"></code>
 
 ### Github
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltlkong&theme=blueberry" />
 
 [![](https://activity-graph.herokuapp.com/graph?username=ltlkong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ltlkong&show_icons=true&theme=yeblu)
