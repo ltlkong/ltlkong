@@ -4,9 +4,9 @@
 
 A highly motivated and passionate web developer. 
 
-### Social Accounts：
+### Connect with me：
 
-- <a href="https://www.linkedin.com/in/tielin-li-a3335820b/"><img height="30" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png"></a>
+<a href="https://www.linkedin.com/in/tielin-li-a3335820b/"><img height="30" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png"></a>
 
 ### Languages:
 
