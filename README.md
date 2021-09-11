@@ -6,7 +6,7 @@ A highly motivated and passionate web developer.
 
 ### Social Accounts：
 
-- <a href="https://www.linkedin.com/in/tielin-li-a3335820b/"><img height="30" src="https://sguru.org/wp-content/uploads/2018/02/linkedin-png-linkedin-icon-1600.png"></a>
+- <a href="https://www.linkedin.com/in/tielin-li-a3335820b/"><img height="30" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png"></a>
 
 ### Languages:
 
