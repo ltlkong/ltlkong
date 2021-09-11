@@ -21,5 +21,5 @@ A highly motivated and passionate web developer.
 [![](https://activity-graph.herokuapp.com/graph?username=ltlkong&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=ltlkong&show_icons=true&theme=yeblu)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlkong)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltlkong&theme=blueberry)
 
