@@ -2,7 +2,7 @@
 
 # Tielin Li
 
-A highly motivated and passionate web developer. 
+Vim lover, Linux lover, A highly motivated and passionate web developer. 
 
 ### Connect with me：
 
