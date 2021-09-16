@@ -2,7 +2,7 @@
 
 # Tielin Li
 
-<img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png"> lover, Linux lover, A highly motivated and passionate web developer. 
+<img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png"> lover, Linux lover, a highly motivated and passionate web developer. 
 
 ### Connect with me：
 
